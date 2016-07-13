@@ -1,6 +1,9 @@
 .gradle/
 .idea/
-build/
+build/classes/
+build/kotlin-classes/
+build/scripts/
+build/tmp/
 
 local.properties
 config.yml
